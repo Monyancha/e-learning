@@ -1,4 +1,4 @@
-# Nekomy. An open source LMS (eLearning platform) for MOOCs and online courses
+# Solusi University. LMS (eLearning platform) for MOOCs and online courses
 
 [![Build Status](https://travis-ci.org/nekomy/nekomy-platform.svg?branch=master)](https://travis-ci.org/nekomy/nekomy-platform)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
