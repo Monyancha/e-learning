@@ -4,8 +4,6 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Slack Group](http://slack.nekomy.com/badge.svg)](http://slack.nekomy.com)
 
-The project is currently under development, with continuous changes and some bits and bobs not working. Feel free to test it if you like but don't expect it to be production-ready. If you are interested in contributing, please [join the #dev channel in the Slack group](http://slack.nekomy.com).
-
 New project's website (under construction): [https://nekomy.com](https://nekomy.com)
 
 Old Demo website with content: [https://hypatia-8d923.firebaseapp.com](https://hypatia-8d923.firebaseapp.com) (Sign up with a valid email is required to access some pages)
@@ -128,7 +126,3 @@ The repository owner acknowledges that, except as explicitly described in this A
 ## Credits
 
 Icons from Flaticon.com (Freepik and Madebyoliver), triangles background by rvika from Fotolia and photos from Google Creative Commons search results
-
-## Copyright & License
-
-Copyright (c) 2016-2017 Nekomy - Released under the [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) license.
