@@ -1,14 +1,6 @@
-# Solusi University. LMS (eLearning platform) for MOOCs and online courses
+# E-Learning platform for online courses.
 
-[![Build Status](https://travis-ci.org/nekomy/nekomy-platform.svg?branch=master)](https://travis-ci.org/nekomy/nekomy-platform)
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![Slack Group](http://slack.nekomy.com/badge.svg)](http://slack.nekomy.com)
-
-New project's website (under construction): [https://nekomy.com](https://nekomy.com)
-
-Old Demo website with content: [https://hypatia-8d923.firebaseapp.com](https://hypatia-8d923.firebaseapp.com) (Sign up with a valid email is required to access some pages)
-
-Old project's website: [https://nekomy.github.io/nekomy-platform/](https://nekomy.github.io/nekomy-platform/)
+New project's website (under construction): [Realtime E-Learning](https://e-learning-7c6ae.firebaseapp.com/)
 
 ![Home](https://firebasestorage.googleapis.com/v0/b/hypatia-8d923.appspot.com/o/screenshots%2Fhome.jpg?alt=media&token=1421d0c1-97ad-486c-b040-695e128a9e4a)
 
@@ -18,7 +10,7 @@ Old project's website: [https://nekomy.github.io/nekomy-platform/](https://nekom
 
 ## Getting Started
 
-Warning! This documentation is not super stable. Post an issue if you find any trouble or something is not clear
+You need a Unix PC to clone this webapp!
 
 - Install Node.js >= 7.4.0 [https://nodejs.org/](https://nodejs.org/)
 
